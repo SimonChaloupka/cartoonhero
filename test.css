@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #5684C4;
+}
+h1{
+	fontsize: 30px;
+	color: #BCEAEE;
+}
+h2{
+	font-size: 25px;
+	color: #BCEAEE;
+}
+.big{ 
+	font-size: 40px;
+}
+.thicc{
+	font-size: 50px;
+}
